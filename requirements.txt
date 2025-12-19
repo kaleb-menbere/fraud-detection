@@ -9,3 +9,4 @@ shap
 ipaddress
 jupyter
 pytest
+pandas
