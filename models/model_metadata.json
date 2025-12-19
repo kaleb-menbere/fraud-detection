@@ -1,6 +1,6 @@
 {
     "model_name": "Logistic Regression",
-    "training_date": "2025-12-19 22:35:13",
+    "training_date": "2025-12-19 22:39:40",
     "training_samples": 103316,
     "test_samples": 25830,
     "n_features": 25,
@@ -15,6 +15,6 @@
         "Precision": 0.5750830564784053,
         "Recall": 0.7053789731051344,
         "Accuracy": 0.9224932249322493,
-        "Inference Time (ms)": 214.78533744812012
+        "Inference Time (ms)": 125.10156631469727
     }
 }
