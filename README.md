@@ -255,9 +255,7 @@ jupyter notebook notebooks/task3_model_explainability.ipynb
 3. Real-time Transaction Monitoring
 
 ## 👥 Team
-- **Data Scientists**: [Your Name]
-- **Project Lead**: Kerod
-- **Advisors**: Mahbubah, Filimon
+- **Data Scientists**: Kaleb Menbere
 - **Institution**: Adey Innovations Inc.
 
 ## 📅 Timeline
@@ -272,7 +270,6 @@ This project is proprietary and confidential. All rights reserved by Adey Innova
 ## 🌟 Acknowledgments
 - Dataset providers and competition hosts
 - Open-source machine learning community
-- Project advisors and reviewers
 
 ---
 
